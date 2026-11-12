@@ -1,0 +1,29 @@
+﻿probe: start
+probe: opened
+probe: zipped
+probe: book
+probe: rels
+probe: shared
+probe: strings 24662
+probe: sheet 1
+probe: rid rId2
+probe: target worksheets/sheet2.xml
+probe: sheetXml
+probe: rows 3465
+probe: header done
+probe: cols num=38 name=1 resin=39 fr=40 add=41
+probe: cols checked
+Material records: 3464
+RESIN:
+  Other resin
+  PC
+  PPS
+  Rigid PVC
+  Soft PVC
+FLAME RETARDANT:
+  [FR (40), FR(52), FR(30), FR(60)]
+  [FR(16), FR(17) or no info about FR]
+  [No FR]
+ADDITIVE:
+  Other or no additif
+  PTFE lubricated part
